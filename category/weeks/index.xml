@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeks | Academic</title>
+    <link>http://localhost:1313/category/weeks/</link>
+      <atom:link href="http://localhost:1313/category/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weeks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Weeks</title>
+      <link>http://localhost:1313/category/weeks/</link>
+    </image>
+    
+    <item>
+      <title>Пост по прошедшей неделе (11-17 марта)!</title>
+      <link>http://localhost:1313/post/weeks/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/weeks/</guid>
+      <description>&lt;h2 id=&#34;путь-начинающего-программиста&#34;&gt;Путь начинающего программиста&lt;/h2&gt;
+&lt;p&gt;Мне очень интересна сфера IT и непосредственно само программирование. Я начал изучать C++, но понял, что помимо информации из университета мне нужно что-то ещё, поэтому я приобрёл две книги, которые должны дать мне много полезной и интересной информации.&lt;/p&gt;
+&lt;h2 id=&#34;планы-и-целы&#34;&gt;Планы и целы&lt;/h2&gt;
+&lt;p&gt;Помимо достижения своей цели в IT направлении, нужно помнить и про повседневную жизнь. Я не забываю встречатсья с друзьями и классно проводить с ними время. Так же очень классно гулять по ночному городу. Ночью на улице минимум людей и шума. Ты можешь наслаждаться чистым воздухом и спокойствием. Это повзоляет очистить голову и побыть на едине с собой.&lt;/p&gt;
+&lt;h2 id=&#34;увлечение-помимо-программирования&#34;&gt;Увлечение помимо программирования&lt;/h2&gt;
+&lt;p&gt;Программирование - это круто, но помимо этого у меня есть и другое хобби, а именно компьютерные игры. Я люблю уделить пару часиков и поиграть в любимые игры. Это отвлекает от какой-то повседневной суеты и перезаряжает тебя, что даёт ещё большую мотивацию на продуктивную работу.&lt;/p&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;Таким образом, неделя прошла не только с удовольсвтием, но и с пользой. Сделал много дел как по учёбе, так и по домашним делам. Посмторим, что принесёт мне следующая неделя.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
