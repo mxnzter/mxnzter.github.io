@@ -5,7 +5,7 @@
     <link>http://localhost:1313/category/weeks/</link>
       <atom:link href="http://localhost:1313/category/weeks/index.xml" rel="self" type="application/rss+xml" />
     <description>Weeks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Weeks</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Пост по прошедшей неделе (11-17 марта)!</title>
-      <link>http://localhost:1313/post/weeks/</link>
+      <title>Пост по прошедшей неделе (1-7 апреля)</title>
+      <link>http://localhost:1313/post/week2/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/week2/</guid>
+      <description>&lt;h2 id=&#34;путь-начинающего-программиста&#34;&gt;Путь начинающего программиста&lt;/h2&gt;
+&lt;p&gt;Я начал читать одну из двух книг, о которых рассказывал в предыдущем посте. Мне очень нравится её оформление и как автор передаёт информаицю. Он показывает примеры алгоритмов на простых вещах, из-за чего работа кода становится максимально понятной.&lt;/p&gt;
+&lt;h2 id=&#34;дни-рождения&#34;&gt;Дни рождения&lt;/h2&gt;
+&lt;p&gt;На этой неделе было много дней рождений моих близких друзей. Я проводил время с удовольствием и в приятной компании. Благодаря таким мероприятиям я смог познакомится с новыми, классными людьми.&lt;/p&gt;
+&lt;h2 id=&#34;отдых&#34;&gt;Отдых&lt;/h2&gt;
+&lt;p&gt;Несмотря на моё хобби в виде компьютерных игр, из-за всех меропряитий и дел я на какое-то время отдалился от игр. Всю неделю я находился в каких-либо движениях, и так получалось, что дома я только спал, но в ближайшее время я хочу вернутся к своему увлечению.&lt;/p&gt;
+&lt;h2 id=&#34;итоги&#34;&gt;Итоги&lt;/h2&gt;
+&lt;p&gt;Таким образом, неделя была очень активной и энергичной. Днём я решал дела по учёбе, а вечером гулял с друзьями и проводил время с удовольствием. Посмотрим, какой выдастся следующая неделя.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе (11-17 марта)</title>
+      <link>http://localhost:1313/post/week1/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/weeks/</guid>
+      <guid>http://localhost:1313/post/week1/</guid>
       <description>&lt;h2 id=&#34;путь-начинающего-программиста&#34;&gt;Путь начинающего программиста&lt;/h2&gt;
 &lt;p&gt;Мне очень интересна сфера IT и непосредственно само программирование. Я начал изучать C++, но понял, что помимо информации из университета мне нужно что-то ещё, поэтому я приобрёл две книги, которые должны дать мне много полезной и интересной информации.&lt;/p&gt;
 &lt;h2 id=&#34;планы-и-целы&#34;&gt;Планы и целы&lt;/h2&gt;
